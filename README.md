@@ -6,3 +6,4 @@
 
 然后配置includes/eshanghu/config.php
 
+有问题点击链接加入群聊【易支付源码交流群】：https://jq.qq.com/?_wv=1027&k=5GGuvjX
